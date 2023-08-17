@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/CarRent/static/css/main.7acaea2f.css",
-    "main.js": "/CarRent/static/js/main.07d3183d.js",
+    "main.css": "/CarRent/static/css/main.0fdc472e.css",
+    "main.js": "/CarRent/static/js/main.12cab44d.js",
+    "static/media/bentley_azure.jpg": "/CarRent/static/media/bentley_azure.93addbffb9b588e493c0.jpg",
+    "static/media/subaru_outback.jpg": "/CarRent/static/media/subaru_outback.1fbda66b1887e945abad.jpg",
+    "static/media/volvo_xc90.jpg": "/CarRent/static/media/volvo_xc90.5bb4c2060a6f869361ae.jpg",
     "index.html": "/CarRent/index.html",
-    "main.7acaea2f.css.map": "/CarRent/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/CarRent/static/js/main.07d3183d.js.map"
+    "main.0fdc472e.css.map": "/CarRent/static/css/main.0fdc472e.css.map",
+    "main.12cab44d.js.map": "/CarRent/static/js/main.12cab44d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.0fdc472e.css",
+    "static/js/main.12cab44d.js"
   ]
 }
